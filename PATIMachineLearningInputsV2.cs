@@ -60,8 +60,8 @@ namespace NinjaTrader.NinjaScript.Indicators
 				//AddPlot(Brushes.Blue, "ReverseStrengthLinesDiff");
 				// AddPlot(Brushes.Crimson, "MovingAvgDiff");
 				AddPlot(Brushes.Maroon, "VolumeSpeedPerSecond");
-				// AddPlot(Brushes.Magenta, "StdDevBB");
-				// AddPlot(Brushes.Transparent, "TimeOfDay");
+				AddPlot(Brushes.Magenta, "StdDevBB");
+				AddPlot(Brushes.Transparent, "TimeOfDay");
 				/* EXAMPLES
 				//AddPlot(Brushes.AliceBlue, "RSquareVolSpeed");
 				//AddPlot(Brushes.Aqua, "LinRegVolSpeed");
@@ -70,21 +70,21 @@ namespace NinjaTrader.NinjaScript.Indicators
 				AddPlot(Brushes.Maroon, "AverageBidAskRatio");
 				AddPlot(Brushes.Maroon, "AverageMinimumImbalanceVolume");
 				*/
-			/*}
+			}
 			else if (State == State.Configure)
 			{
 			}
 			
 			else if (State == State.DataLoaded)
 			{
-				bb = Bollinger(2,14);
+				// bb = Bollinger(2,14);
 				//rsTop = ReverseStrength(Close, 14, 60);
 				//rsBottom = ReverseStrength(Close, 14, 40);
-				maFast = EMA(33);
-				maSlow = EMA(89);
+				// maFast = EMA(33);
+				// maSlow = EMA(89);
 				// Initialize last vol per second time interval;
 				glLastVolPerSecondReading = DateTime.MinValue;
-			*/}
+			}
 		}
 
 		protected override void OnConnectionStatusUpdate(ConnectionStatusEventArgs connectionStatusUpdate)
@@ -144,10 +144,10 @@ namespace NinjaTrader.NinjaScript.Indicators
 			}
 
 			// Standard Deviation
-			// Values[3][0] = StdDev(Values[0], 40)[0];
+			Values[3][0] = StdDev(Values[0], 40)[0];
 			
 			// Time of Day
-			// Values[4][0] = (double)ToTime(Time[0].ToUniversalTime());
+			Values[4][0] = (double)ToTime(Time[0].ToUniversalTime());
 			//Print("PATIMachineLearningInputs : UTC=" + Values[4][0] + ", ToTime(Time[0])=" + ToTime(Time[0]).ToString());
 
 			// EXAMPLES
@@ -159,14 +159,14 @@ namespace NinjaTrader.NinjaScript.Indicators
 			//		Values[9][0] = rsTop[0] - rsBottom[0];
 		}
 
-		#region Properties
+/*		#region Properties
 
-		// [Browsable(false)]
-		// [XmlIgnore]
-		// public Series<double> BollingerDiff
-		// {
-		// 	get { return Values[0]; }
-		// }
+		/[Browsable(false)]
+		[XmlIgnore]
+		public Series<double> BollingerDiff
+		{
+			get { return Values[0]; }
+		}
 /*
 		[Browsable(false)]
 		[XmlIgnore]
@@ -176,13 +176,14 @@ namespace NinjaTrader.NinjaScript.Indicators
 		}
 */
 
-		// /[Browsable(false)]
-		// [XmlIgnore]
-		// public Series<double> MovingAvgDiff
-		// {
-		//	get { return Values[1]; }
-		// }
-
+/*		[Browsable(false)]
+		[XmlIgnore]
+		public Series<double> MovingAvgDiff
+		{
+			get { return Values[1]; }
+		}
+  
+*/
 		[Browsable(false)]
 		[XmlIgnore]
 		public Series<double> VolumeSpeedPerSecond
@@ -190,19 +191,19 @@ namespace NinjaTrader.NinjaScript.Indicators
 			get { return Values[2]; }
 		}
 
-		// [Browsable(false)]
-		// [XmlIgnore]
-		// public Series<double> StdDevBB
-		// {
-		//	get { return Values[3]; }
-		// }
+		[Browsable(false)]
+		[XmlIgnore]
+		public Series<double> StdDevBB
+		{
+			get { return Values[3]; }
+		}
 
-		// [Browsable(false)]
-		// [XmlIgnore]
-		// public Series<double> TimeOfDay
-		// {
-		//	get { return Values[4]; }
-		// }
+		[Browsable(false)]
+		[XmlIgnore]
+		public Series<double> TimeOfDay
+		{
+			get { return Values[4]; }
+		}
 
 		/*  EXAMPLES
 		[Browsable(false)]
