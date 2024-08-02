@@ -57,7 +57,7 @@ namespace NinjaTrader.NinjaScript.Indicators
 				//See Help Guide for additional information.
 				IsSuspendedWhileInactive					= true;
 				// AddPlot(Brushes.Orange, "BollingerDiff");
-				//AddPlot(Brushes.Blue, "ReverseStrengthLinesDiff");
+				// AddPlot(Brushes.Blue, "ReverseStrengthLinesDiff");
 				// AddPlot(Brushes.Crimson, "MovingAvgDiff");
 				AddPlot(Brushes.Maroon, "VolumeSpeedPerSecond");
 				AddPlot(Brushes.Magenta, "StdDevBB");
