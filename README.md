@@ -6,4 +6,4 @@
 4)  If your using Conner Template, NQ only!  Change AC4 & AC4+ Imbalance Mode to "Horizontal"
 5)  We ready to train!
 6)  Open Ninja Script Editor add // in front of :
-   
+   <img src="./Pictures_PATIML/Step1_PATIML.jpg" alt="OrderFlowBot" style="display: block; margin: 0 auto">
