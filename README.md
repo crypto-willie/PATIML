@@ -18,4 +18,8 @@
 
 11) Enable and watch file grow!  ConnerMLtrainkjsdfskljdhflsda?????.csv
 
-    <img src="./Pictures_PATIML/Step2_PATIML.jpg">
+    <img src="./Pictures_PATIML/Step3_PATIML.jpg">
+
+12) Lets tweak it:
+
+    <img src="./Pictures_PATIML/Step4_PATIML.jpg">
