@@ -10,7 +10,7 @@
 6)  Create models "Trend & Regression".
 7)  Open PATIML.app
 8)  Set DATA Series to 30 Days
-9)  Step was forwarded too FA support.  This needs to happen so  Model work correctly in different Time Zones!  How I tweak it with Ninja Script Editor by adding // in front of AddPlot(Brushes.Transparent, "TIMEOfDAY"); Also place in 2nd picture & then I compile:
+9)  Step was forwarded too FA support.  This needs to happen so Model work correctly in different Time Zones!  How I tweak it with Ninja Script Editor by adding // in front of AddPlot(Brushes.Transparent, "TIMEOfDAY"); Also place in 2nd picture & then I compile:
   
    <img src="./Pictures_PATIML/Step1_PATIML.jpg">
    
@@ -18,7 +18,7 @@ and here:
 
    <img src="./Pictures_PATIML/Step14_PATIML.jpg">
 
-10) Goto Strategies, use Conner Template and unCheck "Use PolanityATI Trades" & "Optimize Settings" for 1st part of training.  In picture I name mine PrePack to share w/ friend in differet TimeZone.  Do not get this confuse w/ Conner.
+10) Goto Strategies, use Conner Template and unCheck "Use PolanityATI Trades" & "Optimize Settings" for 1st part of training.  In picture I name mine PrePack.  Do not get this confuse w/ Conner's models.
     
     <img src="./Pictures_PATIML/Step2_PATIML.jpg">
 
