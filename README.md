@@ -12,7 +12,7 @@
   
    <img src="./Pictures_PATIML/Step1_PATIML.jpg">
 
-10) Goto Strategies, use Conner Template and change this for 1st part of training.  In picture I name mine PrePack to share w/ friend in differet TimeZone.  Do not get this confuse w/ Conner.
+10) Goto Strategies, use Conner Template and unCheck "Use PolanityATI Trades" & "Optimize Settings" for 1st part of training.  In picture I name mine PrePack to share w/ friend in differet TimeZone.  Do not get this confuse w/ Conner.
     
     <img src="./Pictures_PATIML/Step2_PATIML.jpg">
 
@@ -26,6 +26,10 @@
 
     <img src="./Pictures_PATIML/Step6_PATIML.jpg">
 
-13) No Need to playback and train now!  8k lines w/ 65% higher win rate now!
+13) No Need to playback and train now!  8k lines w/ 65% higher win rate now!  If you remove "Time Of Day"  ML will get better over time!
 
     <img src="./Pictures_PATIML/Step7_PATIML.jpg">
+
+14) Back to Stratiges:  Check "Use PolanityATI Trades!  Apply!  then Enable!  Apply Again!
+
+15)   <img src="./Pictures_PATIML/Step4_PATIML.jpg">
