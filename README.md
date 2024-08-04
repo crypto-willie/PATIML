@@ -46,7 +46,7 @@
 
   <img src="./Pictures_PATIML/Step10_PATIML.jpg">
 
-17)  Apply!  then Enable!  Apply Again!
+17)  Apply!  then Enable!  Apply Again!  Hit Train!
 
 18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only to tweak version in documents.  Delete it or save.  Copy & paste new tweak version into PATIResources Folder.  Hit train!
 
