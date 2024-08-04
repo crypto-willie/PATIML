@@ -1,6 +1,6 @@
 # PATIML  - 
 
-##### I suggest using "Main Backup File. NT88K"  I think there something to it w/ AC4 AC4+ way Conner has it setup!  My model using this strategy w/out his indicators does not work as good!
+##### I suggest using "Main Backup File. NT88K"  I think there something to it w/ AC4, AC4+, etc etc way Conner has it setup!  My model using this strategy w/out his indicators does not work as good!
 
 1)  SIERRALINK VPS user delete everthing in Documents/NinjaTrader 8/db/
 2)  Download Historical Data
