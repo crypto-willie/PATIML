@@ -58,7 +58,7 @@ and here:
 
 19)  Training Done!  Export Orginal Model!
 
-20)  Ready for "Optimize Settings"  make your setting look like the picture!  DO NOT ENABLE!!!!!  Fix "TimeOfDAY"
+20)  Ready for "Optimize Settings"  make your setting look like the picture!  DO NOT ENABLE!!!!!  If you tweak "TimeOfDAY", be sure to fix it.  FA team enable it!  Depends on who reading it! ;-)
 
   <img src="./Pictures_PATIML/Step11_PATIML.jpg">
 
