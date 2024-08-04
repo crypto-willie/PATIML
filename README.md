@@ -50,13 +50,17 @@
 
 19)  Training Done!  Export Orginal Model!
 
-20)  Ready for "Optimize Settings"  make your setting look like the picture!
+20)  Ready for "Optimize Settings"  make your setting look like the picture!  DO NOT ENABLE!!!!!  If you need to fix "TimeOfDAY"
 
   <img src="./Pictures_PATIML/Step11_PATIML.jpg">
 
-21)  Go back & fix "TimeOfDAY" with Ninja Script Editor.
+21)  Fix "TimeOfDAY" with Ninja Script Editor.
 
   <img src="./Pictures_PATIML/Step12_PATIML.jpg">
+
+22) Now Enable, Wait!!!!  When you see "Heuristic Parameter Optimization ON"  Open Data Seris and change "Days to Load" to what ever you prefer!
+
+    Done!  ML should work way better!   It should learn base off how you trade!  Happy Trading
     
 
     
