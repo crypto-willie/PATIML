@@ -9,9 +9,13 @@
 7)  Open PATIML.app
 8)  Set DATA Seris to 30 Days
 9)  Step Only Needed for Model to use in different Time Zones!  Open Ninja Script Editor add // in front of AddPlot(Brushes.Transparent, "TIMEOfDAY"); & compile:
-10)  
+  
    <img src="./Pictures_PATIML/Step1_PATIML.jpg">
 
-11) Goto Strategies, use Conner Template and change this for 1st part of training.  In picture I name mine PrePack to share w/ friend in differet TimeZone.  Do not get this confuse w/ Conner.
+10) Goto Strategies, use Conner Template and change this for 1st part of training.  In picture I name mine PrePack to share w/ friend in differet TimeZone.  Do not get this confuse w/ Conner.
     
+    <img src="./Pictures_PATIML/Step2_PATIML.jpg">
+
+11) Enable and watch file grow!  ConnerMLtrainkjsdfskljdhflsda?????.csv
+
     <img src="./Pictures_PATIML/Step2_PATIML.jpg">
