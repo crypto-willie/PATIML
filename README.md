@@ -36,5 +36,5 @@
 
 15)  Delete or save if you want the ConnerMLtrain_kjsdfskljdhflsda?????.csv.  Copy Paste tweak version into PATIResources folder.  Hit Train:
 
-    <img src="./Pictures_PATIML/Step9_PATIML.jpg">
+   <img src="./Pictures_PATIML/Step9_PATIML.jpg">
     
