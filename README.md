@@ -48,7 +48,7 @@
 
 17)  Apply!  then Enable!  Apply Again!  Hit Train!
 
-18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only.  Name needs to match!   You are re-using tweak version in documents just change name.  Delete it or save new ConnerMLTRAIN_???.csv version in PATIResources folder.  There needs to be 2 ConnerMLTRAIN_eeeecddefgks????.csv  with different names in PATIResources Folder when you finish!  Copy & paste new tweak version into PATIResources Folder.  Hit train!
+18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only.  Name needs to match!   You are re-using tweak version in documents just change name.  Delete it or save new ConnerMLTRAIN_???.csv version in PATIResources folder.  There needs to be 2 ConnerMLTRAIN_eeeecddefgks????.csv  with different names in PATIResources Folder when you finish!  Copy & paste new tweak version into PATIResources Folder.  If you see 2, your good!  Hit train!
 
 19)  Training Done!  Export Orginal Model!
 
