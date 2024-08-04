@@ -16,7 +16,7 @@
     
     <img src="./Pictures_PATIML/Step2_PATIML.jpg">
 
-11) Enable and watch file grow!  ConnerMLtrainkjsdfskljdhflsda?????.csv
+11) Enable and watch file grow!  ConnerMLtrain_kjsdfskljdhflsda?????.csv
 
     <img src="./Pictures_PATIML/Step3_PATIML.jpg">
 
