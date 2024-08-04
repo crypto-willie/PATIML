@@ -50,6 +50,8 @@
 
 18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only.  Name needs to match!   You are re-using tweak version in documents just change name.  Delete it or save new ConnerMLTRAIN_???.csv version in PATIResources folder.  There needs to be 2 ConnerMLTRAIN_eeeecddefgks????.csv  with different names in PATIResources Folder when you finish!  Copy & paste new tweak version into PATIResources Folder.  If you see 2, you are good!  Hit train!
 
+  <img src="./Pictures_PATIML/Step13_PATIML.jpg">
+
 19)  Training Done!  Export Orginal Model!
 
 20)  Ready for "Optimize Settings"  make your setting look like the picture!  DO NOT ENABLE!!!!!  If you need to fix "TimeOfDAY"
