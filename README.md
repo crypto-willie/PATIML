@@ -64,7 +64,11 @@
 
 22) Now Enable, Wait!!!!  When you see "Heuristic Parameter Optimization ON"  Open Data Series and change "Days to Load" to what ever you prefer!
 
-####  Done!  ML should work way better!   It should learn base off how you trade!  Happy Trading
+####  Done!  
+
+ML should work way better!   NQ works better than ES.  Might be size of file or setting.  Time will tell.
+
+It should learn base off how you trade!  Happy Trading
     
 
     
