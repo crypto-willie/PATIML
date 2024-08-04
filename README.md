@@ -3,7 +3,7 @@
 ##### I suggest using "Main Backup File. NT88K"  I think there something to it w/ AC4, AC4+, etc etc way Conner has it setup!  My model using this strategy w/out his indicators does not work as good!
 
 1)  SIERRALINK VPS user delete everthing in Documents/NinjaTrader 8/db/
-2)  Download Historical Data
+2)  Download Historical Data, 30 Days!
 3)  Add all indicators, if any.  No going back after this step without re-training!
 4)  If your using Conner Template, NQ only!  Change AC4 & AC4+ Imbalance Mode to "Horizontal"
 5)  We ready to train!
