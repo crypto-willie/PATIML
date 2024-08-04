@@ -26,7 +26,7 @@
 
     <img src="./Pictures_PATIML/Step6_PATIML.jpg">
 
-13) No Need to playback and train now!  8k lines w/ 65% higher win rate!  If you remove "Time Of Day"  ML will get better over time if you add it back!  Untested theory at moment!  Removing "Time Of Day" only way to get around TimeZones for Custome Model to work any where! 
+13) No Need to playback and train now!  8k lines w/ 65% higher win rate!  If you remove "Time Of Day"  ML will get better over time if you add it back!  Untested theory at moment!  Removing "TimeOfDay" only way to get around TimeZones for Custome Model to work any where! 
 
     <img src="./Pictures_PATIML/Step7_PATIML.jpg">
 
@@ -53,7 +53,10 @@
 20)  Ready for "Optimize Settings"  make your setting look like the picture!
 
   <img src="./Pictures_PATIML/Step11_PATIML.jpg">
-  
+
+21)  Go back & fix "TimeOfDAY" with Ninja Script Editor.
+
+  <img src="./Pictures_PATIML/Step12_PATIML.jpg">
     
 
     
