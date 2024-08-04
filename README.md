@@ -28,7 +28,7 @@
 
     <img src="./Pictures_PATIML/Step6_PATIML.jpg">
 
-13) No Need to playback and train now!  8k lines w/ 65% higher win rate!  If you remove "Time Of Day"  ML will get better over time if you add it back!  Untested theory at moment!  Removing "TimeOfDay" only way to get around TimeZones for Custome Model to work any where! 
+13) No Need to playback and train model now!  8k lines w/ 65% higher win rate!  Just got practice on SIM account!  Still got to know when to switch MODES!  If you remove "Time Of Day"  ML will get better over time if you add it back!  Untested theory at moment!  Removing "TimeOfDay" only way to get around TimeZones for Custome Model to work any where! 
 
     <img src="./Pictures_PATIML/Step7_PATIML.jpg">
 
