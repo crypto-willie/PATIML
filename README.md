@@ -9,7 +9,7 @@
 5)  We ready to train!
 6)  Create models "Trend & Regression".
 7)  Open PATIML.app
-8)  Set DATA Seris to 30 Days
+8)  Set DATA Series to 30 Days
 9)  Step Only Needed for Model to use in different Time Zones!  Open Ninja Script Editor add // in front of AddPlot(Brushes.Transparent, "TIMEOfDAY"); & compile:
   
    <img src="./Pictures_PATIML/Step1_PATIML.jpg">
