@@ -26,4 +26,6 @@
 
     <img src="./Pictures_PATIML/Step6_PATIML.jpg">
 
-13) 
+13) No Need to playback and train now!  8k lines w/ 65% higher win rate now!
+
+    <img src="./Pictures_PATIML/Step7_PATIML.jpg">
