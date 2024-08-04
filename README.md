@@ -13,6 +13,10 @@
 9)  Step Only Needed for Model to use in different Time Zones!  Open Ninja Script Editor add // in front of AddPlot(Brushes.Transparent, "TIMEOfDAY"); & compile:
   
    <img src="./Pictures_PATIML/Step1_PATIML.jpg">
+   
+and here:
+
+   <img src="./Pictures_PATIML/Step14_PATIML.jpg">
 
 10) Goto Strategies, use Conner Template and unCheck "Use PolanityATI Trades" & "Optimize Settings" for 1st part of training.  In picture I name mine PrePack to share w/ friend in differet TimeZone.  Do not get this confuse w/ Conner.
     
