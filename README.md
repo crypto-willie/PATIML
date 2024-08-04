@@ -23,3 +23,7 @@
 12) Lets tweak it.  Copy & paste into Documents!  Leave it there, you will need it agian for Regression Training:
 
     <img src="./Pictures_PATIML/Step5_PATIML.jpg">
+
+    <img src="./Pictures_PATIML/Step6_PATIML.jpg">
+
+13) 
