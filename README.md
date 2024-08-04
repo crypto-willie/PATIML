@@ -26,7 +26,7 @@
 
     <img src="./Pictures_PATIML/Step6_PATIML.jpg">
 
-13) No Need to playback and train now!  8k lines w/ 65% higher win rate now!  If you remove "Time Of Day"  ML will get better over time!
+13) No Need to playback and train now!  8k lines w/ 65% higher win rate!  If you remove "Time Of Day"  ML will get better over time if you add it back!  Untested theory at moment!  Removing "Time Of Day" only way to get around TimeZones for Custome Model to work any where! 
 
     <img src="./Pictures_PATIML/Step7_PATIML.jpg">
 
@@ -43,6 +43,10 @@
 16) Reverse Step 14 with Regression.  Switch with Trend in Strategies:  You can do it just like Picture!
 
   <img src="./Pictures_PATIML/Step10_PATIML.jpg">
+
+17)  Apply!  then Enable!  Apply Again!
+
+18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only to tweak version in documents.  Delete it or save.  Copy & paste new tweak version into PATIResources Folder.  Hit train! 
     
 
     
