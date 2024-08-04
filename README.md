@@ -60,7 +60,7 @@
 
   <img src="./Pictures_PATIML/Step12_PATIML.jpg">
 
-22) Now Enable, Wait!!!!  When you see "Heuristic Parameter Optimization ON"  Open Data Seris and change "Days to Load" to what ever you prefer!
+22) Now Enable, Wait!!!!  When you see "Heuristic Parameter Optimization ON"  Open Data Series and change "Days to Load" to what ever you prefer!
 
 ####  Done!  ML should work way better!   It should learn base off how you trade!  Happy Trading
     
