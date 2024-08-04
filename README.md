@@ -46,7 +46,14 @@
 
 17)  Apply!  then Enable!  Apply Again!
 
-18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only to tweak version in documents.  Delete it or save.  Copy & paste new tweak version into PATIResources Folder.  Hit train! 
+18)  Copy new ConnerMLTRAIN_eeeecddefgks????.csv name only to tweak version in documents.  Delete it or save.  Copy & paste new tweak version into PATIResources Folder.  Hit train!
+
+19)  Training Done!  Export Orginal Model!
+
+20)  Ready for "Optimize Settings"  make your setting look like the picture!
+
+  <img src="./Pictures_PATIML/Step11_PATIML.jpg">
+  
     
 
     
