@@ -20,6 +20,6 @@
 
     <img src="./Pictures_PATIML/Step3_PATIML.jpg">
 
-12) Lets tweak it:
+12) Lets tweak it.  Copy & paste into Documents!  Leave it there, you will need it agian for Regression Training:
 
-    <img src="./Pictures_PATIML/Step4_PATIML.jpg">
+    <img src="./Pictures_PATIML/Step5_PATIML.jpg">
